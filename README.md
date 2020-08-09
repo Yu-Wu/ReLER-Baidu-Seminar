@@ -10,8 +10,8 @@
 | 7.26  | Youjiang | Discovering Human Interactions with Novel Objects via Zero-Shot Learning <br> Learning Human-Object Interaction Detection using Interaction Points
 | 8.02  | Guang | Exploring Self-attention for Image Recognition 
 | 8.02  | Yuanzhi | Visual Commonsense R-CNN
-| 8.09  | Pingbo |
-| 8.09  | Chao |
+| 8.09  | Pingbo | Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One
+| 8.09  | Chao | corner proposal network for anchor-free two-stage object detection
 | 8.16  | Yunqiu |
 | 8.16  | Chen |
 | 8.23  | Xuanmeng |
