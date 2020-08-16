@@ -12,8 +12,8 @@
 | 8.02  | Yuanzhi | Visual Commonsense R-CNN
 | 8.09  | Pingbo | Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One
 | 8.09  | Chao | corner proposal network for anchor-free two-stage object detection
-| 8.16  | Yunqiu |
-| 8.16  | Chen |
+| 8.16  | Yunqiu | Mining Cross-Image Semantics for Weakly Supervised Semantic Segmentation
+| 8.16  | Chen | Self-training with Noisy Student improves ImageNet classification
 | 8.23  | Xuanmeng |
 | 8.23  | Yutian |
 | 8.30  | Yuhang |
